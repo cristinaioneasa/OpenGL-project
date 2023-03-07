@@ -1,0 +1,17 @@
+﻿  Camera.cpp
+D:\FACULTATE\ANUL III\PG\Proiect_incercare_deschidere\Proiect_incercare_deschidere\Camera.hpp(4,10): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  main.cpp
+D:\FACULTATE\ANUL III\PG\Proiect_incercare_deschidere\Proiect_incercare_deschidere\main.cpp(2,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Mesh.cpp
+D:\FACULTATE\ANUL III\PG\Proiect_incercare_deschidere\Proiect_incercare_deschidere\Mesh.hpp(4,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Model3D.cpp
+D:\FACULTATE\ANUL III\PG\Proiect_incercare_deschidere\Proiect_incercare_deschidere\Mesh.hpp(4,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Shader.cpp
+D:\FACULTATE\ANUL III\PG\Proiect_incercare_deschidere\Proiect_incercare_deschidere\Shader.hpp(4,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  SkyBox.cpp
+D:\FACULTATE\ANUL III\PG\Proiect_incercare_deschidere\Proiect_incercare_deschidere\Shader.hpp(4,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  stb_image.cpp
+  tiny_obj_loader.cpp
+  Window.cpp
+D:\FACULTATE\ANUL III\PG\Proiect_incercare_deschidere\Proiect_incercare_deschidere\Window.h(4,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Generating Code...

@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\FACULTATE\ANUL III\PG\Proiect\Proiect\main.cpp(116,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\FACULTATE\ANUL III\PG\Proiect\Proiect\main.cpp(117,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Proiect.vcxproj -> D:\FACULTATE\ANUL III\PG\Proiect\x64\Debug\Proiect.exe

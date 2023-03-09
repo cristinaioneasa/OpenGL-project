@@ -1,7 +1,7 @@
 # OpenGL-project
-###About
+### About
 
-###Controls:
+### Controls:
 
 A -> move left
 
